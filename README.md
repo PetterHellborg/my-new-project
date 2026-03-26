@@ -75,6 +75,22 @@ main()
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
+Data sources required:
+•	EU directives and regulations (e.g., Machinery Directive, EMC Directive)
+•	Harmonized standards databases
+•	Company specific product documentation, test reports, and risk analyses
+•	Templates for Declarations of Conformity, technical files, safety instructions
+AI techniques that can be used:
+•	NLP (Natural Language Processing)
+To interpret regulatory texts, classify product categories, and extract required steps from directives.
+•	Machine learning classifiers
+To match products to relevant standards and directives.
+•	Recommendation systems
+To propose safety measures, documentation requirements, or risk reduction actions.
+•	Document automation and RPA
+To auto generate declarations, risk matrices, and technical file structures.
+•	Knowledge graph or rule based reasoning
+To connect product features with mandatory compliance actions.
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -84,15 +100,31 @@ If you need to use links, here's an example:
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Even with automation, CE Flow has limitations:
+•	It cannot replace ultimate legal responsibility — companies must still ensure compliance is correct.
+•	Regulations change, requiring continuous dataset and model updates.
+•	Very specialized or novel products may require human expert judgment.
+•	Certain physical tests or measurements cannot be automated through software alone.
 
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Possible future development paths:
+•	Support for global certifications beyond the EU (e.g., UKCA, UL, CSA).
+•	Integration with IoT devices for automated real time risk assessment.
+•	Expansion into digital audit trails for inspectors.
+•	Collaboration features for complex supply chains.
+•	Predictive analytics to foresee compliance risks early in product development.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
+* list here the sources of inspiration:This project concept builds on publicly available EU regulatory frameworks and inspiration from the Elements of AI – Building AI course structure.
+Any future implementation may also rely on:
+•	Open source NLP libraries (e.g., spaCy, Hugging Face Transformers)
+•	Public EU documentation and harmonized standards lists
+
+ 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
