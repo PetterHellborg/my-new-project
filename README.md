@@ -25,6 +25,8 @@ CE Flow is intended for:
 •	Quality assurance teams
 •	Product engineers
 •	Manufacturers and industry suppliers
+![CE-Flow](https://github.com/PetterHellborg/my-new-project/blob/main/CE-Flow.png)
+
 Usage context:
 A company enters a product description into the app. CE Flow analyses the information, identifies applicable directives, generates a compliance roadmap, and assembles documentation automatically.
 Stakeholders affected:
