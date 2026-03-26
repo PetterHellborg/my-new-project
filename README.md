@@ -4,7 +4,6 @@ Building AI final project CE-Flow
 # Project Title
 Final project for the Building AI course CE-Flow
 ## Summary
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 CE Flow is an AI powered application designed to automate the entire CE marking process for industrial products. The platform interprets EU directives, assists with risk assessments, generates documentation, and removes the need for manual handling. The goal is a streamlined, error reduced, and compliant workflow that supports manufacturers in meeting CE standards efficiently.
 ## Background
 * problem 1:
